@@ -10,3 +10,7 @@ Django
 Pytest
 SQLite3
 
+## Challenges
+
+Finding a free api that I can use for the odds for a given sport/day. There are several that are available, but almost all of them require payment. One that does not, only allows 500 api calls per month. 
+
